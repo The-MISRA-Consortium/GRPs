@@ -15,8 +15,8 @@ These GRPs are licenced under a:
 ## Index by Purpose
 
 1. For Automatically Generated Code (AGC)
-  1. MISRA C:2023 GRP for AGC
-	1. MISRA C:2025 GRP for AGC
+    1. MISRA C:2023 GRP for AGC
+    1. MISRA C:2025 GRP for AGC
 
 
 ## Index by MISRA Publication
